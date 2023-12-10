@@ -11,4 +11,5 @@ En este proyecto utilizamos el editor de còdigo **visual studio code** y los le
 </ol>
 
 ### Vista previa:
-Captura de pantalla de nuestra interfaz. 
+
+![Screenshot from 2023-12-10 00-06-19](https://github.com/Gressq/google_clone/assets/152525916/1e44c430-37cd-457b-a9ba-7f2b4a5c5dd7)
